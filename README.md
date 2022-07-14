@@ -7,3 +7,6 @@ This simple project illustrates how to use C++ in embedded systems.
 3. That's it you can code whatever you want :)
 
 For more info about why C++ and the installation process for the toolchain [watch_me](https://youtu.be/JhkREKFm21E).
+
+## UPDATE: makefile is added to automate build process
+- For Build just type ``` make ``` in your CLI
